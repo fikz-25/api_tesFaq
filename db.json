@@ -2,25 +2,21 @@
   "faq" : 
 [{
     "id":1,
-    "toggler":"#1",
     "question": "pertanyaan ini berisi tentang apa 0?",
     "answer" : "jawaban dari pertanyaan ini diatas 0"
   },
   {
     "id":2,
-    "toggler":"#2",
     "question": "pertanyaan ini berisi tentang apa 1?",
     "answer" : "jawaban dari pertanyaan ini diatas 1"
   },
   {
     "id":3,
-    "toggler":"#3",
     "question": "pertanyaan ini berisi tentang apa 2?",
     "answer" : "jawaban dari pertanyaan ini diatas 2"
   },
   {
     "id":4,
-    "toggler":"#4",
     "question": "pertanyaan ini berisi tentang apa 3?",
     "answer" : "jawaban dari pertanyaan ini diatas 3"
   }]
