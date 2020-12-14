@@ -1,5 +1,4 @@
-{
-    "dataQuiz": [
+[
         {
             "id_quiz": "1",
             "quiz": "Apa yang penting & pertama harus dilakukan penolong kepada korban yang mengalami peradarahan luar ?",
@@ -101,4 +100,3 @@
             "answer": "Penolong memberikan penanganan, menentukan pemasangan lebih dari 5 cm diatas luka, pasang torniket, memberi tanda, mencatat pemasangan torniket"
         },
     ]
-}
