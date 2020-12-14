@@ -2,23 +2,103 @@
     "dataQuiz": [
         {
             "id_quiz": "1",
-            "quiz": "siapa nama saya?",
-            "slc_a": "bambang",
-            "slc_b": "joko",
-            "slc_c": "parman",
-            "slc_d": "sekar",
-            "slc_e": "melati",
-            "answer": "melati"
+            "quiz": "Apa yang penting & pertama harus dilakukan penolong kepada korban yang mengalami peradarahan luar ?",
+            "slc_a": "Melakukan penanganan dengan cepat dan berhati-hati",
+            "slc_b": "Elevasi anggota tubuh yang luka",
+            "slc_c": "Imobilisasi luka",
+            "slc_d": "A dan B benar",
+            "slc_e": "Mencuci tangan dan menggunakan alat pelindung diri sebelum bertindak",
+            "answer": "Mencuci tangan dan menggunakan alat pelindung diri sebelum bertindak"
         },
         {
             "id_quiz": "2",
-            "quiz": "berapa umur saya?",
-            "slc_a": "40",
-            "slc_b": "50",
-            "slc_c": "90",
-            "slc_d": "70",
-            "slc_e": "20",
-            "answer": "50"
-        }
+            "quiz": "Apa tujuan utama pertolongan utama pada perdarahan ?",
+            "slc_a": "Mempertahankan penderita tetap hidup",
+            "slc_b": "Membuat keadaan penderita tetap stabil",
+            "slc_c": "Mengurangi rasa nyeri, ketidaknyamanan, dan rasa cemas",
+            "slc_d": "A dan B benar",
+            "slc_e": "Semua benar",
+            "answer": "Semua benar"
+        },
+        {
+            "id_quiz": "3",
+            "quiz": "Tipe perdarahan apa yang menyembur dan dapat mengancam nyawa ?",
+            "slc_a": "Perdarahan arteri",
+            "slc_b": "Perdarahan vena",
+            "slc_c": "Perdarahan kapiler",
+            "slc_d": "A dan B benar",
+            "slc_e": "Semua benar",
+            "answer": "Perdarahan arteri"
+        },
+        {
+            "id_quiz": "4",
+            "quiz": "Darah yang merembes perlahan dan memiliki warna darah yang bervariasi antara merah terang dan gelap merupakan jenis perdarahan ?",
+            "slc_a": "Perdarahan Vena",
+            "slc_b": "Perdarahan arteri",
+            "slc_c": "Perdarahan kapiler",
+            "slc_d": "B dan C benar",
+            "slc_e": "A, B, dan C benar",
+            "answer": "Perdarahan kapiler"
+        },
+        {
+            "id_quiz": "5",
+            "quiz": "Seorang penebang pohon mangga mengalami kecelakaan perdarahan luar pada bagian paha kanan. Setelah temannya datang dan memeriksa, keluar perdarahan yang menyembur dan sulit dikendalikan. Jenis perdarahan apa yang di alami oleh penebang pohon mangga ?",
+            "slc_a": "Perdarahan vena",
+            "slc_b": "Perdarahan arteri",
+            "slc_c": "Perdarahan kapiler",
+            "slc_d": "A dan B benar",
+            "slc_e": "Semua salah",
+            "answer": "Perdarahan arteri"
+        },
+        {
+            "id_quiz": "6",
+            "quiz": "Berikut ini jawaban yang bukan penanganan perdarahan terbuka (luar) adalah ?",
+            "slc_a": "Tekanan langsung",
+            "slc_b": "Elevasi",
+            "slc_c": "Titik tekan",
+            "slc_d": "Alternatif terakhir menggunakan torniket",
+            "slc_e": "Torniket digunakan pada setiap keadaan",
+            "answer": "Torniket digunakan pada setiap keadaan"
+        },
+        {
+            "id_quiz": "7",
+            "quiz": "Seorang penolong memberikan penanganan kepada korban perdarahan luar yang memiliki luka di daerah alat gerak dengan cara menekan bagian berdarah tepat di atas luka dan meninggikan anggota badan yang berdarah lebih tinggi dari jantung. Seorang penolong tersebut menggunakan penanganan ?",
+            "slc_a": "Titik tekan",
+            "slc_b": "Tekanan langsung",
+            "slc_c": "Cara penanganan lain",
+            "slc_d": "Elevasi",
+            "slc_e": "Semua salah",
+            "answer": "Elevasi"
+        },
+        {
+            "id_quiz": "8",
+            "quiz": "Berikut merupakan yang harus diperhatikan penolong jika ingin memberikan pertolongan pertama pada korban perdarahan luar, kecuali ?",
+            "slc_a": "Menggunakan alat APD",
+            "slc_b": "Sebelum atau sesudah memberikan pertolongan mencuci tangan",
+            "slc_c": "Menyentuh mulut pada saat memberikan pertolongan",
+            "slc_d": "Tidak membuang bahan yang sudah ternoda darah dengan baik ",
+            "slc_e": "C dan D",
+            "answer": "C dan D"
+        },
+        {
+            "id_quiz": "9",
+            "quiz": "Berikut ciri jenis Perdarahan vena yang benar adalah ?",
+            "slc_a": "Darah berwarna terang dan susah dikendalikan",
+            "slc_b": "Darah berwarna gelap",
+            "slc_c": "Mempunyai tekanan dalam pembuluh vena yang tinggi",
+            "slc_d": "A dan C",
+            "slc_e": "Semua salah",
+            "answer": "Darah berwarna gelap"
+        },
+        { 
+            "id_quiz": "10",
+            "quiz": "Bagaimana urutan pemasangan torniket yang baik dan benar ?",
+            "slc_a": "Penolong memberikan penanganan, menentukan pemasangan lebih dari 5 cm diatas luka, pasang torniket, memberi tanda, mencatat pemasangan torniket",
+            "slc_b": "Penolong memberikan penanganan, menentukan pemasangan lebih dari 2 cm diatas luka, pasang torniket, memberi tanda, mencatat pemasangan torniket",
+            "slc_c": "Penolong memberikan penanganan, menentukan pemasangan lebih dari 5 cm diatas luka, memberi tanda, pasang torniket, mencatat pemasangan torniket",
+            "slc_d": "Penolong  tidak memberikan penanganan, menentukan pemasangan lebih dari 5 cm diatas luka, pasang torniket, memberi tanda, mencatat pemasangan torniket",
+            "slc_e": "Semua salah",
+            "answer": "Penolong memberikan penanganan, menentukan pemasangan lebih dari 5 cm diatas luka, pasang torniket, memberi tanda, mencatat pemasangan torniket"
+        },
     ]
 }
