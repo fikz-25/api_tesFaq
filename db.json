@@ -2,7 +2,7 @@
    "dataQuiz":[
       {
          "id_quiz":"1",
-         "quiz":"Apa yang penting & pertama harus dilakukan penolong kepada korban yang mengalami peradarahan luar ?",
+         "quiz":"Apa yang penting & pertama harus dilakukan penolong kepada korban yang mengalami perdarahan luar ?",
          "slc_a":"Melakukan penanganan dengan cepat dan berhati-hati",
          "slc_b":"Elevasi anggota tubuh yang luka",
          "slc_c":"Imobilisasi luka",
@@ -12,7 +12,7 @@
       },
       {
          "id_quiz":"2",
-         "quiz":"Apa tujuan utama pertolongan utama pada perdarahan ?",
+         "quiz":"Apa tujuan  memberikan pertolongan pertama pada perdarahan luar ?",
          "slc_a":"Mempertahankan penderita tetap hidup",
          "slc_b":"Membuat keadaan penderita tetap stabil",
          "slc_c":"Mengurangi rasa nyeri, ketidaknyamanan, dan rasa cemas",
@@ -22,7 +22,7 @@
       },
       {
          "id_quiz":"3",
-         "quiz":"Tipe perdarahan apa yang menyembur dan dapat mengancam nyawa ?",
+         "quiz":"Jenis perdarahan apa yang darahnya menyembur dan dapat mengancam nyawa ?",
          "slc_a":"Perdarahan arteri",
          "slc_b":"Perdarahan vena",
          "slc_c":"Perdarahan kapiler",
@@ -42,7 +42,7 @@
       },
       {
          "id_quiz":"5",
-         "quiz":"Seorang penebang pohon mangga mengalami kecelakaan perdarahan luar pada bagian paha kanan. Setelah temannya datang dan memeriksa, keluar perdarahan yang menyembur dan sulit dikendalikan. Jenis perdarahan apa yang di alami oleh penebang pohon mangga ?",
+         "quiz":"Seorang penebang pohon mangga mengalami kecelakaan perdarahan luar pada bagian paha kanan. Setelah temannya datang dan memeriksa, keluar perdarahan yang menyembur dan sulit dikendalikan. Jenis perdarahan apa yang di alami oleh penebang pohon mangga tersebut ?",
          "slc_a":"Perdarahan vena",
          "slc_b":"Perdarahan arteri",
          "slc_c":"Perdarahan kapiler",
@@ -52,7 +52,7 @@
       },
       {
          "id_quiz":"6",
-         "quiz":"Berikut ini jawaban yang bukan penanganan perdarahan terbuka (luar) adalah ?",
+         "quiz":"Berikut ini yang bukan penanganan perdarahan terbuka (luar) adalah ?",
          "slc_a":"Tekanan langsung",
          "slc_b":"Elevasi",
          "slc_c":"Titik tekan",
